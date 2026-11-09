@@ -1,0 +1,31 @@
+name = "[A3UE] House Loot"
+author = "Antistasi Ultimate Dev Team"
+prefix = "a3uebet"
+mainprefix = "z"
+
+[files]
+include = [
+    "a3uebet.paa",
+    "LICENSE",
+    "README.md",
+    "mod.cpp"
+]
+
+[preprocessor]
+runtime_macros = true
+
+[hemtt.launch.default]
+workshop = [
+    "450814997", # CBA_A3
+    "3020755032", # Antistasi Ultimate
+]
+
+[hemtt.launch.debugging]
+extends = "default"
+workshop = [
+    "1779063631", # ZEN
+    "3499977893", # Advanced Developer Tools
+]
+
+[version]
+git_hash = 0

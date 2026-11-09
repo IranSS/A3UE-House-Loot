@@ -1,0 +1,14 @@
+name = "[A3UE] House Loot";
+picture = "a3uebet.paa";
+actionName = "Website";
+action = "https://github.com/Antistasi-Ultimate-Community/a3ue-blank-template";
+description = "[A3UE] House Loot v1.0.0";
+logo = "a3uebet.paa";
+logoOver = "a3uebet.paa";
+tooltip = "[A3UE] House Loot";
+tooltipOwned = "[A3UE] House Loot Owned";
+overview = "Dynamic vanilla loot inside buildings near players in Antistasi Ultimate.";
+author = "goreSplatter";
+overviewPicture = "a3uebet.paa";
+overviewText = "A3UE - House Loot";
+overviewFootnote = "<br /><br /><t color='#999999'>This content is under Arma Public License Share Alike (APL-SA) License.<br />Press <t /><t color='#19d3ff'>Left Shift + P<t /><t color='#999999'> to open the store page for more information.<t />";

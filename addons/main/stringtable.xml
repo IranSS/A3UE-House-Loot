@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="A3UEBET">
+    <Package name="Main">
+        <Key ID="STR_A3UEBET_Main_Extender_Author">
+            <English>A3UE - House Loot</English>
+            <German>A3UE - House Loot</German>
+        </Key>
+        <Key ID="STR_A3UEBET_Main_Extender_AuthorUrl">
+            <English>https://github.com/Antistasi-Ultimate-Community</English>
+            <German>https://github.com/Antistasi-Ultimate-Community</German>
+        </Key>
+    </Package>
+</Project>
